@@ -8,6 +8,7 @@ The goals for each starter project:
 
 - Minimum, but useful enough to be used as a "starter" template for new projects.
 - Lots of code comments to explain technology choices.
+- Be specific about versions of the technologies used.
 
 # Technologies used
 
@@ -30,7 +31,7 @@ To get started, find the sample with combination of technologies most relevant t
 ## Project-Navy-Cricket
 
 ✅ ES2018
-✅ Webpack
-✅ Babel
-✅ SCSS
-✅ React
+✅ Webpack v4.40
+✅ Babel v7.6
+✅ SCSS 4.12
+✅ React 16.9
