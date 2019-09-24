@@ -7,6 +7,7 @@ This project contains various samples showing how to tie modern technologies tog
 The goals for each starter project:
 
 - Minimum, but useful enough to be used as a "starter" template for new projects.
+  - Should at the very least render an index.html page and use some Javascript.
 - Lots of code comments to explain technology choices.
 - Be specific about versions of the technologies used.
 - Specify an "updated" date, so it's clear how up-to-date a project is.
