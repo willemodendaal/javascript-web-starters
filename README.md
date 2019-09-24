@@ -28,7 +28,7 @@ Since the projects themselves aren't of much use (they are only "starters" after
 
 To get started, find the sample with combination of technologies most relevant to you:
 
-## Project-Navy-Cricket
+## [Project-Navy-Cricket](project-navy-cricket)
 
 ✅ ES2018
 ✅ Webpack v4.40
