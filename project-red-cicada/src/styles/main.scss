@@ -1,3 +1,10 @@
+/* SCSS that can use advanced features */
+$foreground-color: darken(red, 20);
+
+body {
+  color: $foreground-color;
+}
+
 * {
   margin: 0;
   padding: 0;

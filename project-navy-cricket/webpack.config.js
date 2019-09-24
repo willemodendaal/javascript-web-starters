@@ -14,9 +14,9 @@ module.exports = {
             {
                 test: /\.scss/,
                 use: [
-                    //Creates style nodes from js imports.
+                    //Creates <style> elements and appends to html output.
                     "style-loader",
-                    //Translates CSS into CommonJS.
+                    //Allows 'import' of css files into Javascript modules.
                     "css-loader",
                     //Compiles Sass to CSS.
                     "sass-loader"]
