@@ -30,6 +30,16 @@ Since the projects themselves aren't of much use (they are only "starters" after
 
 To get started, find the sample with combination of technologies most relevant to you:
 
+## [Project-Red-Cicada](project-red-cicada)
+
+✅ ES2018
+✅ Webpack v4.40
+✅ Babel v7.6
+✅ SCSS 4.12
+
+Updated: September 2019
+
+
 ## [Project-Navy-Cricket](project-navy-cricket)
 
 ✅ ES2018
@@ -37,15 +47,6 @@ To get started, find the sample with combination of technologies most relevant t
 ✅ Babel v7.6
 ✅ SCSS 4.12
 ✅ React 16.9
-
-Updated: September 2019
-
-## [Project-Red-Cicada](project-red-cicada)
-
-✅ ES2018
-✅ Webpack v4.40
-✅ Babel v7.6
-✅ SCSS 4.12
 
 Updated: September 2019
 
