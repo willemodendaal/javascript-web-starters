@@ -1,7 +1,7 @@
 {
-  "name": "willem-react-starter",
+  "name": "project-navy-cricket",
   "version": "1.0.0",
-  "description": "Boilerplate project to get started with React, Babel and Webpack4",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "dev": "webpack --mode development",
@@ -19,7 +19,6 @@
     "@babel/register": "^7.6.0",
     "babel-loader": "^8.0.6",
     "css-loader": "^3.2.0",
-    "html-loader": "^0.5.5",
     "html-webpack-plugin": "^3.2.0",
     "node-sass": "^4.12.0",
     "react": "^16.9.0",
