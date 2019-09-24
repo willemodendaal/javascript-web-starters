@@ -1,10 +1,10 @@
 # javascript-web-starters
 
-It can be daunting to get started with a new Javascript web project, because there are many technologies to use, and they all fit together in different ways. Each technology fills
+It can be daunting to get started with a new Javascript web project, because there are so many technologies to use, and they all fit together in different ways. Each technology fills a particular niche.
 
 This project contains various samples showing how to tie modern technologies together to build rich Javascript-powered websites.
 
-The goals for all the sample projects:
+The goals for each sample project:
 
 - Minimum, but useful enough to be used as a "starter" template for new projects.
 - Lots of code comments to explain technology choices.
