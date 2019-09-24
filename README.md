@@ -40,8 +40,19 @@ To get started, find the sample with combination of technologies most relevant t
 
 Updated: September 2019
 
+## [Project-Red-Cicada](project-red-cicada)
+
+✅ ES2018
+✅ Webpack v4.40
+✅ Babel v7.6
+✅ SCSS 4.12
+
+Updated: September 2019
+
 # Contributing
 
 These starter projects will "age" as technologies evolve, so any assistance to update the projects is greatly appreciated.
 
 Existing starter projects can be updated within major versions. For example: Project-Navy-Cricket can be updated to use Webpack v4.50, but when Webpack v5 is released, a brand new starter project should be created.
+
+Secondly, the goal is to keep the projects as lean as possible (but still useful), so if there is any way to "trim the fat" and remove code (eg. node modules) that are not necessary, please delete ruthlessly.
