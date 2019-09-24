@@ -30,7 +30,17 @@ Since the projects themselves aren't of much use (they are only "starters" after
 
 To get started, find the sample with combination of technologies most relevant to you:
 
-## [Project-Red-Cicada](project-red-cicada)
+## [Project Neon Gadfly](project-neon-gadfly)
+
+✅ Vanilla Javascript (ES5)
+✅ Vanilla CSS 3
+✅ Webpack v4.40
+
+❎ ~Babel~ (Not needed because we're using vanilla JS and CSS)
+
+Updated: September 2019
+
+## [Project Red Cicada](project-red-cicada)
 
 ✅ ES2018
 ✅ Webpack v4.40
@@ -40,7 +50,7 @@ To get started, find the sample with combination of technologies most relevant t
 Updated: September 2019
 
 
-## [Project-Navy-Cricket](project-navy-cricket)
+## [Project Navy Cricket](project-navy-cricket)
 
 ✅ ES2018
 ✅ Webpack v4.40
