@@ -26,3 +26,8 @@ To build a development mode package, use:
 To build a production mode package, use:
 
 - npm run build
+
+## Noteworthy Features
+
+- Webpack 4 hot reloading (just works)
+- Html 'cache busting' using the HtmlWebPackPlugin.
