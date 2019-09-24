@@ -10,14 +10,14 @@ A starter project that uses the following technologies:
 
 Updated: September 2019
 
-# Running
+## Running
 
 To run the project locally:
 
 - npm install
 - webpack-dev-server
 
-# Building
+## Building
 
 To build a development mode package, use:
 
