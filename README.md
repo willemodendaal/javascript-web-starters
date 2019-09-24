@@ -35,3 +35,5 @@ To get started, find the sample with combination of technologies most relevant t
 ✅ Babel v7.6
 ✅ SCSS 4.12
 ✅ React 16.9
+
+Updated: September 2019

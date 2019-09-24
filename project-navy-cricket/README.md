@@ -1,3 +1,5 @@
+# Project-Navy-Cricket
+
 A starter project that uses the following technologies:
 
 ✅ ES2018
@@ -5,3 +7,22 @@ A starter project that uses the following technologies:
 ✅ Babel v7.6
 ✅ SCSS 4.12
 ✅ React 16.9
+
+Updated: September 2019
+
+# Running
+
+To run the project locally:
+
+- npm install
+- webpack-dev-server
+
+# Building
+
+To build a development mode package, use:
+
+- npm run dev
+
+To build a production mode package, use:
+
+- npm run build
