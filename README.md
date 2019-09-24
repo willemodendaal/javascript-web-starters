@@ -26,7 +26,7 @@ The starter projects are made up combinations of the following technologies:
 
 # The Starter Projects
 
-Since the projects themselves aren't of much use (they are only "starters" after all), we assign random names in the format: project-<color>-<animal>, just for easy reference. 
+Since the projects themselves aren't of much use (they are only "starters" after all), we assign random names in the format: project-color-animal, just for easy reference. 
 
 To get started, find the sample with combination of technologies most relevant to you:
 
