@@ -9,6 +9,7 @@ The goals for each starter project:
 - Minimum, but useful enough to be used as a "starter" template for new projects.
 - Lots of code comments to explain technology choices.
 - Be specific about versions of the technologies used.
+- Specify an "updated" date, so it's clear how up-to-date a project is.
 
 # Technologies used
 
