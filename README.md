@@ -49,6 +49,14 @@ Updated: September 2019
 
 Updated: September 2019
 
+# [Project Green Gazelle](project-green-gazelle)
+
+✅ TypeScript
+✅ Webpack v4.40
+✅ Babel v7.6
+✅ SCSS 4.12
+
+Updated: September 2019
 
 ## [Project Navy Cricket](project-navy-cricket)
 
