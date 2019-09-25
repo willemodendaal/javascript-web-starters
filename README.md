@@ -79,7 +79,7 @@ Updated: September 2019
 
 Updated: September 2019
 
-## [Project-Lilac-Leopard](project-lilac-leopard)
+## [Project Lilac Leopard](project-lilac-leopard)
 
 ✅ TypeScript
 ✅ Webpack v4.40
