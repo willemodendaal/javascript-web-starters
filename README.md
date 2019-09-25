@@ -79,6 +79,17 @@ Updated: September 2019
 
 Updated: September 2019
 
+## [Project-Lilac-Leopard](project-lilac-leopard)
+
+✅ TypeScript
+✅ Webpack v4.40
+✅ Babel v7.6
+✅ SCSS 4.12
+✅ React 16.9
+✅ Redux 4.0
+
+Updated: September 2019
+
 # Contributing
 
 These starter projects will "age" as technologies evolve, so any assistance to update the projects is greatly appreciated.
