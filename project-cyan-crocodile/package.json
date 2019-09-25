@@ -1,0 +1,34 @@
+{
+  "name": "project-cyan-crocodile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack --mode development",
+    "build": "webpack --mode production",
+    "test": "./node_modules/.bin/mocha --require ts-node/register \"./test/**/*.ts\""
+  },
+  "author": "willem odendaal",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/cli": "^7.6.0",
+    "@babel/core": "^7.6.0",
+    "@babel/node": "^7.6.1",
+    "@babel/preset-typescript": "^7.6.0",
+    "@babel/register": "^7.6.2",
+    "babel-loader": "^8.0.6",
+    "html-webpack-plugin": "^3.2.0",
+    "webpack": "^4.40.2",
+    "webpack-cli": "^3.3.9",
+    "webpack-dev-server": "^3.8.1",
+
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0",
+
+    "ts-node": "^8.4.1",
+    "typescript": "^3.6.3",
+    "@types/mocha": "^5.2.7"
+  },
+  "dependencies": {
+  }
+}

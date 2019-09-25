@@ -49,6 +49,19 @@ Updated: September 2019
 
 Updated: September 2019
 
+## [Project Cyan Crocodile](project-cyan-crocodile)
+
+A starter project that uses the following technologies:
+
+✅ TypeScript
+✅ Webpack v4.40
+✅ Babel v7.6
+✅ Chai v4.2
+✅ Mocha v6.2
+✅ TS-Node v8.4
+
+Updated: September 2019
+
 ## [Project Green Gazelle](project-green-gazelle)
 
 ✅ TypeScript
