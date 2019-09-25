@@ -49,7 +49,7 @@ Updated: September 2019
 
 Updated: September 2019
 
-# [Project Green Gazelle](project-green-gazelle)
+## [Project Green Gazelle](project-green-gazelle)
 
 ✅ TypeScript
 ✅ Webpack v4.40
